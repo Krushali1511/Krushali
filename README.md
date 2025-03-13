@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ..advanced web development, UI/UX design principles, and using tools like Panda for design inspiration, 
 Figma for prototyping, and VS Code for efficient development to enhance my skills in JavaScript frameworks like React and Vue.
 - 💞️ I’m looking to collaborate on ...  web development projects, UI/UX design collaborations, and building engaging, user-friendly web applications.
-- 📫 How to reach me ... How to reach me: You can email me at krushalichauhan4@gmail.com or reach out on LinkedIn: https://www.linkedin.com/in/krushali-chauhan-8150441ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
+- 📫 How to reach me ... How to reach me: You can email me at krushalichauhan4@gmail.com or reach out on LinkedIn: www.linkedin.com/in/krushali-chauhan-8150441ab
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I love exploring new web development trends and I’m passionate about creating websites that are both functional and visually appealing.
 
