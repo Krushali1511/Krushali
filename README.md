@@ -5,8 +5,7 @@ Figma for prototyping, and VS Code for efficient development to enhance my skill
 - 💞️ I’m looking to collaborate on ...  web development projects, UI/UX design collaborations, and building engaging, user-friendly web applications.
 - 📫 How to reach me ... How to reach me: You can email me at krushalichauhan4@gmail.com or reach out on LinkedIn: www.linkedin.com/in/krushali-chauhan-8150441ab
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I love exploring new web development trends and I’m passionate about creating websites that are both functional and visually appealing.
-
+- ⚡ Fun fact: ...I can code in 5 languages... too bad none of them are human 
 <!---
 Krushali1511/Krushali1511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
